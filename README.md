@@ -1,3 +1,3 @@
-# shrub's home-server
+# moonbase
 
 Personal home server project.
